@@ -79,7 +79,7 @@ The application is designed not to fetch or visit submitted URLs automatically. 
 This project was developed for cybersecurity learning, Python practice, and phishing-awareness education.
 
 ## Author
-Cybersecurity Project — PhishGuard
+Purvesh Alone — PhishGuard
 
 ## Disclaimer
 For educational and defensive cybersecurity purposes only.
